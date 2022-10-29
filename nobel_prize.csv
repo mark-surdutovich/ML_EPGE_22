@@ -1,0 +1,16 @@
+﻿time,origin,agent,weight
+18931129,NO,hot_iron,2.30143
+18931205,NO,hot_iron,2.29816
+18931206,NO,hot_iron,2.30182
+18931208,NO,hot_iron,2.2989
+18931212,air,hot_iron,2.31017
+18931214,air,hot_iron,2.30986
+18931219,air,hot_iron,2.3101
+18931222,air,hot_iron,2.31001
+18931226,N2O,hot_iron,2.29889
+18931228,N2O,hot_iron,2.2994
+18940109,NH4NO2,hot_iron,2.29849
+18940113,NH4NO3,hot_iron,2.29889
+18940127,air,ferrous_hydrate,2.31024
+18940130,air,ferrous_hydrate,2.3103
+18940201,air,ferrous_hydrate,2.31028
